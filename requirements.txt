@@ -5,3 +5,4 @@
  deepface
 easyocr
  scipy
+tf-keras
