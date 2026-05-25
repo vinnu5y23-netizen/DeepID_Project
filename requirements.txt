@@ -1,9 +1,9 @@
- streamlit==1.57.0
+ streamlit
  opencv-python-headless
  numpy
  pillow
  deepface
 easyocr
  scipy
-tensorflow==2.21.0
+tensorflow
 tf-keras
